@@ -17,6 +17,7 @@
 <hr/>
 <details open>
   <summary><b>:computer: &nbsp;Main tech and related knowledge</b></summary>
+  <br/>
 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
