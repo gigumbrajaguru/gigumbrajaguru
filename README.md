@@ -5,6 +5,9 @@
 - 👋 Hi, I’m @gigumbrajaguru
 - 👀 I’m interested in ai and machine learning
 - 🌱 I’m currently learning data science and artificial intelligence.
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=gigumbrajaguru&style=plastic&label=Views"><img>
+</p>
 
 <p align="center">
   <a href="mailto:gigumbrajaguru@gmail.com?subject=Call from github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -94,7 +97,7 @@
 </details>
 <hr/>
 
-<details>
+<details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
@@ -107,7 +110,3 @@
 </details>
 
 <hr/>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=gigumbrajaguru&style=plastic&label=Views"><img>
-</p>
