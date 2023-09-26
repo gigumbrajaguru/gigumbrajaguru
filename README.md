@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @gigumbrajaguru
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning data science and artificial intelligence.
-- This is a PERSONAL GITHUB ACCOUNT. Nothing belongs to my COMPANY (it has a different GitHub account).
+- This is a PERSONAL GITHUB ACCOUNT. Nothing belongs to any companies I worked for (those have different GitHub accounts).
 
 <p align="center">
   <a href="mailto:gigumbrajaguru@gmail.com?subject=Call from github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
