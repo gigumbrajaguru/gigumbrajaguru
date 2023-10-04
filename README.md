@@ -111,5 +111,4 @@
 	  <img height="137px" src="https://github-readme-stats-git-master-gigumbrajaguru.vercel.app/api/top-langs/?username=gigumbrajaguru&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gigumbrajaguru&theme=dark" alt="GitHub Streak" /></a>
 <hr/>
