@@ -103,10 +103,12 @@
 <details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark" alt="GitHub Streak" /></a>    </p>
-
+    <p align="center">
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gigumbrajaguru&theme=dark" alt="GitHub Streak" /></a>
+        <a href="https://github-readme-streak-stats.herokuapp.com?user=gigumbrajaguru&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com?user=gigumbrajaguru&theme=dark" alt=""/></a>
+    </p>
+    <p align="center">
         <img height="137px" src="https://github-readme-stats-git-master-gigumbrajaguru.vercel.app/api?username=gigumbrajaguru&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-	  <img height="137px" src="https://github-readme-stats-git-master-gigumbrajaguru.vercel.app/api/top-langs/?username=gigumbrajaguru&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
