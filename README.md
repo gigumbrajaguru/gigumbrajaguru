@@ -104,7 +104,7 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=gigumbrajaguru&theme=dark" alt="" />
+        <img src="https://streak-stats.demolab.com/?user=gigumbrajaguru&theme=dark" alt="" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats-git-master-gigumbrajaguru.vercel.app/api?username=gigumbrajaguru&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
