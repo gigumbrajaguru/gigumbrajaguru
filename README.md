@@ -103,11 +103,12 @@
 <details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-<!--     <p align="center">
-        
+    <p align="center">
+        ![gigumbrajaguru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gigumbrajaguru&theme=dracula&hide_border=true)
     </p>
     <p align="center">
-       
-    </p> -->
+       ![gigumbrajaguru's Stats](https://github-readme-stats.vercel.app/api?username=gigumbrajaguru&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+	![gigumbrajaguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigumbrajaguru&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+    </p> 
 </details>
 <hr/>
