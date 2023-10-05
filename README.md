@@ -103,11 +103,11 @@
 <details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="center">
+<!--     <p align="center">
         
     </p>
     <p align="center">
        
-    </p>
+    </p> -->
 </details>
 <hr/>
