@@ -102,8 +102,9 @@
 
 <details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>              
-![gigumbrajaguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigumbrajaguru&theme=dracula&show_icons=true&hide_border=true&layout=compact)            
+  <br/>      
+	    
+![gigumbrajaguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigumbrajaguru&theme=dracula&show_icons=true&hide_border=true&layout=compact)                    
      
 </details>
 <hr/>
