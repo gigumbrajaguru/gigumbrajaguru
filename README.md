@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @gigumbrajaguru
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning data science and artificial intelligence.
-- This is a PERSONAL GITHUB ACCOUNT. Nothing belongs to any companies I worked for (those have different GitHub accounts).
+- This is a PERSONAL GITHUB ACCOUNT. Nothing here belongs to any companies I worked for (those have different GitHub accounts).
 
 <p align="center">
   <a href="mailto:gigumbrajaguru@gmail.com?subject=Call from github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -103,7 +103,12 @@
 <details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>      
-	    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="github-readme-stats-gigumbrajaguru-turn-01.vercel.app/api/pin/?username=gigumbrajaguru&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src=github-readme-stats-gigumbrajaguru-turn-01.vercel.app/api/pin/?username=gigumbrajaguru&repo=convoychat" />
+</a>	    
 ![gigumbrajaguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigumbrajaguru&theme=dracula&show_icons=true&hide_border=true&layout=compact)                    
      
 </details>
