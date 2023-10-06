@@ -102,15 +102,13 @@
 
 <details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>      
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="github-readme-stats-gigumbrajaguru-turn-01.vercel.app/api/pin/?username=gigumbrajaguru&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src=github-readme-stats-gigumbrajaguru-turn-01.vercel.app/api/pin/?username=gigumbrajaguru&repo=convoychat" />
-</a>                                         	     
-	                                                 
-![gigumbrajaguru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigumbrajaguru&theme=dracula&show_icons=true&hide_border=true&layout=compact)                        
-     
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=gigumbrajaguru&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats-git-master-gigumbrajaguru.vercel.app/api?username=gigumbrajaguru&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+	  <img height="137px" src="https://github-readme-stats-git-master-gigumbrajaguru.vercel.app/api/top-langs/?username=gigumbrajaguru&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
 </details>
 <hr/>
